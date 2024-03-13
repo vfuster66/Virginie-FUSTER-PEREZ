@@ -9,7 +9,7 @@
 
 
 
-[![vfuster-'s 42 stats](https://badge42.coday.fr/api/v2/clqik6j1n094501p4pvsi59bn/stats?cursusId=21&coalitionId=319)](https://github.com/Coday-meric/badge42)
+[![vfuster-'s 42 stats](https://badge42.coday.fr/api/v2/cltpx5zqv531101p4bte37ts1/stats?cursusId=67&coalitionId=319)](https://github.com/Coday-meric/badge42)
 
 ## 💻 Technical Skills
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/vfuster66)
