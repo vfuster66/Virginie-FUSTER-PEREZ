@@ -14,6 +14,6 @@
 [![Github](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&color=black)](https://github.com/vfuster66)
 
 ## 📊 GitHub Stats
-[![Languages](https://github-readme-stats.vercel.app/api?username=LucieLeBriquer&show_icons=true&theme=vue-dark&hide_border=true&count_private=true&hide=issues&card_width=300)](https://github.com/vfuster66)
+[![Languages](https://github-readme-stats.vercel.app/api?username=vfuster66&show_icons=true&theme=vue-dark&hide_border=true&count_private=true&hide=issues&card_width=300)](https://github.com/vfuster66)
 
-[![Stat](https://github-readme-stats.vercel.app/api/top-langs/?username=LucieLeBriquer&layout=compact&hide=roff&langs_count=8&show_icons=true&theme=vue-dark&hide_border=true)](https://github.com/vfuster66)
+[![Stat](https://github-readme-stats.vercel.app/api/top-langs/?username=vfuster66&layout=compact&hide=roff&langs_count=8&show_icons=true&theme=vue-dark&hide_border=true)](https://github.com/vfuster66)
