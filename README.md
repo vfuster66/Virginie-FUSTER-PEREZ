@@ -3,12 +3,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vfuster66&label=Profile%20views&color=0e75b6&style=flat" alt="vfuster66" /> </p>
 
 
-<h3 align="center">
-   Student @42 Perpignan
-</h3>
-
-
-
 [![vfuster-'s 42 stats](https://badge42.coday.fr/api/v2/cltpx5zqv531101p4bte37ts1/stats?cursusId=21&coalitionId=319)](https://github.com/Coday-meric/badge42)
 
 ## 💻 Technical Skills
