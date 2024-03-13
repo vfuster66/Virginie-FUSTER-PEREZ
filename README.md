@@ -2,11 +2,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vfuster66&label=Profile%20views&color=0e75b6&style=flat" alt="vfuster66" /> </p>
 
+
 <h3 align="center">
    Student @42 Perpignan
 </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vfuster66&label=Profile%20views&color=0e75b6&style=flat" alt="vfuster66" /> </p>
 
 
 [![vfuster-'s 42 stats](https://badge42.coday.fr/api/v2/clqik6j1n094501p4pvsi59bn/stats?cursusId=21&coalitionId=319)](https://github.com/Coday-meric/badge42)
