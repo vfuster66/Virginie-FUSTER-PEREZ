@@ -17,3 +17,11 @@
 [![Languages](https://github-readme-stats.vercel.app/api?username=vfuster66&show_icons=true&theme=vue-dark&hide_border=true&count_private=true&hide=issues&card_width=300)](https://github.com/vfuster66)
 
 [![Stat](https://github-readme-stats.vercel.app/api/top-langs/?username=vfuster66&layout=compact&hide=roff&langs_count=8&show_icons=true&theme=vue-dark&hide_border=true)](https://github.com/vfuster66)
+
+## 👩‍🎓 42
+
+### 📂 42 main projects
+[![webserv](https://github-readme-stats.vercel.app/api/pin/?username=LucieLeBriquer&repo=webserv&theme=vue-dark&hide_border=true)](https://github.com/vfuster66/webserv)
+[![inception](https://github-readme-stats.vercel.app/api/pin/?username=LucieLeBriquer&repo=ft_containers&theme=vue-dark&hide_border=true)](https://github.com/vfuster66/ft_containers)
+[![piscineCPP](https://github-readme-stats.vercel.app/api/pin/?username=LucieLeBriquer&repo=piscineCPP&theme=vue-dark&hide_border=true)](https://github.com/vfuster66/piscineCPP)
+[![miniShell](https://github-readme-stats.vercel.app/api/pin/?username=LucieLeBriquer&repo=minishell&theme=vue-dark&hide_border=true)](https://github.com/vfuster66/minishell)
