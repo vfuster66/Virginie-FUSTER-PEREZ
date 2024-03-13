@@ -21,7 +21,7 @@
 ## 👩‍🎓 42
 
 ### 📂 42 main projects
-[![webserv](https://github-readme-stats.vercel.app/api/pin/?username=LucieLeBriquer&repo=webserv&theme=vue-dark&hide_border=true)](https://github.com/vfuster66/webserv)
-[![inception](https://github-readme-stats.vercel.app/api/pin/?username=LucieLeBriquer&repo=ft_containers&theme=vue-dark&hide_border=true)](https://github.com/vfuster66/ft_containers)
-[![piscineCPP](https://github-readme-stats.vercel.app/api/pin/?username=LucieLeBriquer&repo=piscineCPP&theme=vue-dark&hide_border=true)](https://github.com/vfuster66/piscineCPP)
-[![miniShell](https://github-readme-stats.vercel.app/api/pin/?username=LucieLeBriquer&repo=minishell&theme=vue-dark&hide_border=true)](https://github.com/vfuster66/minishell)
+[![42-Webserv](https://github-readme-stats.vercel.app/api/pin/?username=vfuster66&repo=webserv&theme=vue-dark&hide_border=true)](https://github.com/vfuster66/webserv)
+[![inception](https://github-readme-stats.vercel.app/api/pin/?username=vfuster66&repo=ft_containers&theme=vue-dark&hide_border=true)](https://github.com/vfuster66/ft_containers)
+[![piscineCPP](https://github-readme-stats.vercel.app/api/pin/?username=vfuster66&repo=piscineCPP&theme=vue-dark&hide_border=true)](https://github.com/vfuster66/piscineCPP)
+[![miniShell](https://github-readme-stats.vercel.app/api/pin/?username=vfuster66&repo=minishell&theme=vue-dark&hide_border=true)](https://github.com/vfuster66/minishell)
