@@ -1,5 +1,7 @@
 # Virginie FUSTER PEREZ
 
+## 👩‍🎓 Student @42 Perpignan 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vfuster66&label=Profile%20views&color=0e75b6&style=flat" alt="vfuster66" /> </p>
 
 
@@ -19,7 +21,7 @@
 
 [![Stat](https://github-readme-stats.vercel.app/api/top-langs/?username=vfuster66&layout=compact&hide=roff&langs_count=8&show_icons=true&theme=vue-dark&hide_border=true)](https://github.com/vfuster66)
 
-## 👩‍🎓 42
+
 
 ### 📂 42 main projects
 [![42-Webserv](https://github-readme-stats.vercel.app/api/pin/?username=vfuster66&repo=42-Webserv&theme=vue-dark&hide_border=true)](https://github.com/vfuster66/42-Webserv.git)
