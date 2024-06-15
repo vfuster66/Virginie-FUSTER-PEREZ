@@ -28,6 +28,6 @@
 ### 📂 42 main projects
 [![42-Webserv](https://github-readme-stats.vercel.app/api/pin/?username=vfuster66&repo=42-Webserv&theme=vue-dark&hide_border=true)](https://github.com/vfuster66/42-Webserv.git)
 [![42_Inception](https://github-readme-stats.vercel.app/api/pin/?username=vfuster66&repo=42_Inception&theme=vue-dark&hide_border=true)](https://github.com/vfuster66/42_Inception.git)
-[![42_CPP](https://github-readme-stats.vercel.app/api/pin/?username=vfuster66&repo=42_CPP&theme=vue-dark&hide_border=true)](https://github.com/vfuster66/42_CPP.git)
+[![42_Piscine_Mobile](https://github-readme-stats.vercel.app/api/pin/?username=vfuster66&repo=42_CPP&theme=vue-dark&hide_border=true)](https://github.com/vfuster66/piscine_mobile.git)
 [![42-MiniShell](https://github-readme-stats.vercel.app/api/pin/?username=vfuster66&repo=42-Minishell&theme=vue-dark&hide_border=true)](https://github.com/vfuster66/42-Minishell.git)
 
