@@ -34,11 +34,11 @@
 [![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)](https://github.com/vfuster66)
 
 ## 📊 GitHub Stats
-[![Languages](https://github-readme-stats.vercel.app/api?username=vfuster66&show_icons=true&theme=vue-dark&hide_border=true&count_private=true&hide=issues&card_width=300)](https://github.com/vfuster66)
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vfuster66&theme=calm&show_icons=true)]
 
-[![Stat](https://github-readme-stats.vercel.app/api/top-langs/?username=vfuster66&layout=compact&hide=roff&langs_count=8&show_icons=true&theme=vue-dark&hide_border=true)](https://github.com/vfuster66)
+[![Stat](https://github-readme-stats.vercel.app/api/top-langs/?username=vfuster66&layout=compact&hide=roff&langs_count=8&show_icons=true&theme=vue-calm&hide_border=true)](https://github.com/vfuster66)
 
 
 
