@@ -42,7 +42,7 @@
 ![vfuster66's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vfuster66&theme=jolly&show_icons=true&hide_border=false&layout=compact)
 
 ### 📂 42 main projects
-[![42-Webserv](https://github-readme-stats.vercel.app/api/pin/?username=vfuster66&repo=42-Webserv&theme=vue-dark&hide_border=true)](https://github.com/vfuster66/42_Webserv.git)
+[![42-Webserv](https://github-readme-stats.vercel.app/api/pin/?username=vfuster66&repo=42-Webserv&theme=jolly&hide_border=false)](https://github.com/vfuster66/42_Webserv.git)
 [![42_Inception](https://github-readme-stats.vercel.app/api/pin/?username=vfuster66&repo=42_Inception&theme=vue-dark&hide_border=true)](https://github.com/vfuster66/42_Inception.git)
 [![42_Piscine_Mobile](https://github-readme-stats.vercel.app/api/pin/?username=vfuster66&repo=piscine_mobile&theme=vue-dark&hide_border=true)](https://github.com/vfuster66/piscine_mobile.git)
 [![42-MiniShell](https://github-readme-stats.vercel.app/api/pin/?username=vfuster66&repo=42-Minishell&theme=vue-dark&hide_border=true)](https://github.com/vfuster66/42-Minishell.git)
