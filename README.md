@@ -36,7 +36,7 @@
 ## 📊 GitHub Stats
 [![Languages](https://github-readme-stats.vercel.app/api?username=vfuster66&show_icons=true&theme=vue-dark&hide_border=true&count_private=true&hide=issues&card_width=300)](https://github.com/vfuster66)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vfuster66&theme=dark&show_icons=true)]
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vfuster66&theme=calm&show_icons=true)]
 
 [![Stat](https://github-readme-stats.vercel.app/api/top-langs/?username=vfuster66&layout=compact&hide=roff&langs_count=8&show_icons=true&theme=vue-dark&hide_border=true)](https://github.com/vfuster66)
 
