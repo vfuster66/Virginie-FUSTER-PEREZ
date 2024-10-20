@@ -35,12 +35,11 @@
 
 ## 📊 GitHub Stats
 
+![vfuster66's Stats](https://github-readme-stats.vercel.app/api?username=vfuster66&theme=jolly&show_icons=true&hide_border=false&count_private=true)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vfuster66&theme=calm&show_icons=true)
+![vfuster66's Streak](https://github-readme-streak-stats.herokuapp.com/?user=vfuster66&theme=jolly&hide_border=false)
 
-[![Stat](https://github-readme-stats.vercel.app/api/top-langs/?username=vfuster66&layout=compact&hide=roff&langs_count=8&show_icons=true&theme=vue-calm&hide_border=true)](https://github.com/vfuster66)
-
-
+![vfuster66's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vfuster66&theme=jolly&show_icons=true&hide_border=false&layout=compact)
 
 ### 📂 42 main projects
 [![42-Webserv](https://github-readme-stats.vercel.app/api/pin/?username=vfuster66&repo=42-Webserv&theme=vue-dark&hide_border=true)](https://github.com/vfuster66/42-Webserv.git)
