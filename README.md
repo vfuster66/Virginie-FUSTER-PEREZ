@@ -4,9 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vfuster66&label=Profile%20views&color=0e75b6&style=flat" alt="vfuster66" /> </p>
 
-
-[![vfuster-'s 42 stats](https://badge42.coday.fr/api/v2/cltpx5zqv531101p4bte37ts1/stats?cursusId=21&coalitionId=319)](https://github.com/Coday-meric/badge42)
-
 ## 💻 Technical Skills
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 [![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)](https://github.com/vfuster66)
